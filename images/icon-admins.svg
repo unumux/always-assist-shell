@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="39px" viewBox="0 0 40 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-admins</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Always-Assist" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AlwaysAssist-Home" transform="translate(-497.000000, -1450.000000)" fill="#FFFFFF">
+            <path d="M499,1450 L514,1450 C515.104569,1450 516,1450.89543 516,1452 L516,1489 L497,1489 L497,1452 L497,1452 C497,1450.89543 497.895431,1450 499,1450 L499,1450 Z M501,1475 L501,1489 L512,1489 L512,1475 L501,1475 Z M503,1477 L510,1477 L510,1489 L503,1489 L503,1477 Z M520,1463 L535,1463 C536.104569,1463 537,1463.89543 537,1465 L537,1489 L518,1489 L518,1465 C518,1463.89543 518.895431,1463 520,1463 Z M522,1475 L522,1489 L533,1489 L533,1475 L522,1475 Z M524,1477 L531,1477 L531,1489 L524,1489 L524,1477 Z" id="icon-admins"></path>
+        </g>
+    </g>
+</svg>

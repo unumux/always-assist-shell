@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="34px" viewBox="0 0 40 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-agents</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Always-Assist" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AlwaysAssist-Home" transform="translate(-905.000000, -1452.000000)" fill="#FFFFFF">
+            <path d="M917,1459 L917,1456 L917,1456 C917,1453.79086 918.790861,1452 921,1452 L929,1452 C931.209139,1452 933,1453.79086 933,1456 L933,1459 L941,1459 C943.209139,1459 945,1460.79086 945,1463 L945,1482 C945,1484.20914 943.209139,1486 941,1486 L909,1486 C906.790861,1486 905,1484.20914 905,1482 L905,1463 C905,1460.79086 906.790861,1459 909,1459 L909,1459 L917,1459 Z M921,1455 C920.447715,1455 920,1455.44772 920,1456 L920,1459 L930,1459 L930,1456 C930,1455.44772 929.552285,1455 929,1455 L921,1455 Z M911,1459 L911,1486 L914,1486 L914,1459 L911,1459 Z M936,1459 L936,1486 L939,1486 L939,1459 L936,1459 Z" id="icon-agents"></path>
+        </g>
+    </g>
+</svg>
