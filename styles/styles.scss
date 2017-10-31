@@ -181,3 +181,15 @@ a.willow-footer-nav__link {
         max-width: 380px; 
     }
 }
+
+.willow-logo-link__image {
+    margin: $space-stack;
+}
+
+.willow-page-header__branding {
+    margin: $space-l auto 0 auto;
+
+    @media all and (min-width: 828px) {
+        margin: initial;
+    }
+}
